@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @moemi7
-- 👀 I’m interested in codinh
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me msg me in github
+Hello, welcome to my repositories
 
-<!---
-moemi7/moemi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Mohamed Taouil, an dutch-moroccan civil engineer with experience and interest in programming engineering solutions to make the engineering workflow smarter.
+Take a look at all my projects, if you have any question, don't hestitate to send me a message.
+
+Regards,
+Mohamed
+
+Projects Done
+
+
+Projects in work
+
